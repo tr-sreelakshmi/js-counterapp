@@ -1,0 +1,32 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 6em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(82, 19, 82);
+}
+
+#myH1{
+color: darkmagenta;
+display: block;
+text-align: center;
+margin-bottom: 50px;
+}
+#btnContainer{
+    text-align: center;
+    padding-left: 25px;
+
+}
+button{
+    padding: 8px 16px;
+background-color:rgb(156, 82, 156);
+color: beige;
+font-weight: 800;
+border-radius: 6px;
+cursor: pointer;
+transition: background-color 0.25s;
+}
+
+button:hover{
+    background-color:blueviolet ;
+}
